@@ -53,5 +53,5 @@ This architecture creates a reactive and efficient application that is both scal
 
 ## 👨‍💻 Developer
 ### Mr. Aurenyx
-GitHub: (https://github.com/Aurenyx)
-LinkedIn: (https://www.linkedin.com/in/govindgulhane)
+- GitHub: (https://github.com/Aurenyx)
+- LinkedIn: (https://www.linkedin.com/in/govindgulhane)
