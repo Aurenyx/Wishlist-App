@@ -50,3 +50,8 @@ This project is built using a modern tech stack, following Google's recommended 
 * This project is open-source. You are free to use, modify, and improve it.
   
 This architecture creates a reactive and efficient application that is both scalable and easy to maintain.
+
+##👨‍💻 Developer
+###Mr. Aurenyx
+GitHub: (https://github.com/Aurenyx)
+LinkedIn: (https://www.linkedin.com/in/govindgulhane)
