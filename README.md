@@ -51,7 +51,7 @@ This project is built using a modern tech stack, following Google's recommended 
   
 This architecture creates a reactive and efficient application that is both scalable and easy to maintain.
 
-##👨‍💻 Developer
-###Mr. Aurenyx
+## 👨‍💻 Developer
+### Mr. Aurenyx
 GitHub: (https://github.com/Aurenyx)
 LinkedIn: (https://www.linkedin.com/in/govindgulhane)
